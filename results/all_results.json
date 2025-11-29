@@ -1,0 +1,42 @@
+{
+  "results_high": {
+    "network_type": "high_influence",
+    "n_users": 1096,
+    "r2_baseline": 0.00414401163613376,
+    "r2_full": 0.033625983125922576,
+    "delta_r2": 0.029481971489788816,
+    "f_statistic": 33.345055098411265,
+    "p_value": 1.0050083321111458e-08,
+    "coefficients_baseline": {
+      "intercept": 0.9397685268691747,
+      "avg_followers": -5.917255490647023e-06
+    },
+    "coefficients_full": {
+      "intercept": 0.9416892568031,
+      "avg_followers": -2.1709858602708096e-06,
+      "eigenvector_high_influence": -0.48339502675273
+    }
+  },
+  "results_low": {
+    "network_type": "low_influence",
+    "n_users": 965,
+    "r2_baseline": 0.04651585183067841,
+    "r2_full": 0.06728723870095865,
+    "delta_r2": 0.02077138687028024,
+    "f_statistic": 21.423609709573892,
+    "p_value": 4.186390251348371e-06,
+    "coefficients_baseline": {
+      "intercept": 0.2837941096210794,
+      "avg_followers": -4.6359100385580305e-06
+    },
+    "coefficients_full": {
+      "intercept": 0.28786336152147396,
+      "avg_followers": -4.1906211808269256e-06,
+      "eigenvector_low_influence": -1.0849480288400375
+    }
+  },
+  "comparison": {
+    "relative_improvement": 0.4193549845230463,
+    "hypothesis_supported": true
+  }
+}

@@ -1,0 +1,89 @@
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scipy>=1.9.0
+
+# Network analysis
+networkx>=2.8.0
+igraph>=0.10.0
+
+# Machine learning and statistics
+scikit-learn>=1.1.0
+statsmodels>=0.13.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
+bokeh>=2.4.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# Data processing
+tqdm>=4.64.0
+click>=8.0.0
+python-dateutil>=2.8.0
+
+# File I/O
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
+h5py>=3.7.0
+
+# Text processing (if needed for tweet analysis)
+nltk>=3.7.0
+spacy>=3.4.0
+textblob>=0.17.0
+
+# API and web scraping (if needed)
+requests>=2.28.0
+tweepy>=4.10.0
+twarc>=2.14.0
+
+# Database support (if needed)
+sqlalchemy>=1.4.0
+psycopg2-binary>=2.9.0
+
+# Parallel processing
+joblib>=1.1.0
+multiprocessing-logging>=0.3.0
+
+# Configuration and logging
+pyyaml>=6.0
+python-dotenv>=0.19.0
+loguru>=0.6.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+pytest-mock>=3.7.0
+
+# Code quality
+black>=22.0.0
+flake8>=4.0.0
+isort>=5.10.0
+
+# Documentation
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0
+
+# Optional: GPU acceleration (uncomment if needed)
+# cupy-cuda11x>=10.0.0  # For CUDA 11.x
+# cupy-cuda12x>=12.0.0  # For CUDA 12.x
+
+# Optional: Advanced network analysis
+# leidenalg>=0.8.0  # For community detection
+# cdlib>=3.0.0      # For community detection algorithms
+# infomap>=1.0.0    # For community detection
+
+# Optional: Graph visualization
+# pyvis>=0.3.0      # For interactive network visualization
+# graph-tool>=2.45  # For advanced graph analysis (requires compilation)
+
+# Development dependencies (optional)
+# jupyterlab>=3.4.0
+# jupyterlab-git>=0.32.0
+# jupyterlab-lsp>=3.8.0
+

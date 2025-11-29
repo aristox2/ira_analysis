@@ -1,0 +1,11 @@
+  Network Type Model Type                   Variable Coefficient
+High Influence   Baseline                  intercept      0.9398
+High Influence   Baseline              avg_followers     -0.0000
+High Influence       Full                  intercept      0.9417
+High Influence       Full              avg_followers     -0.0000
+High Influence       Full eigenvector_high_influence     -0.4834
+ Low Influence   Baseline                  intercept      0.2838
+ Low Influence   Baseline              avg_followers     -0.0000
+ Low Influence       Full                  intercept      0.2879
+ Low Influence       Full              avg_followers     -0.0000
+ Low Influence       Full  eigenvector_low_influence     -1.0849
