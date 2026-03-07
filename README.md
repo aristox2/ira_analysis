@@ -76,3 +76,27 @@ This analysis offers empirical insight into the mechanics of coordinated amplifi
 - Group comparisons (high vs. low influence)
 
 ---
+## Known IRA Operatives
+# The following individuals were identified and indicted by the U.S. Department of Justice for their roles in IRA operations (Mueller Report, 2019):
+
+- Mikhail Ivanovich Bystrov
+- Igor Vladimirovich Nesterov
+- Robert Sergeyevich Bovda
+- Dzheykhun Nasimi Ogly Aslanov
+- Vladimir Dmitriyevich Venkov
+- Mikhail Leonidovich Burchik
+- Anna Vladislavovna Bogacheva
+- Aleksandra Yuryevna Krylova
+- Irina Viktorovna Kaverzina
+- Vadim Vladimirovich Podkopaev
+- Sergey Pavlovich Polozov
+- Taras Kirillovich Pribyshin
+- Gleb Igorevich Vasilchenko
+- Maria Anatolyevna Bovda
+- Denis Igorevich Kuzmin
+
+*Note: These individuals were charged with conspiracy to defraud the United States through their coordination of the IRA's social media influence operations during the 2016 U.S. presidential election.*
+
+---
+## Operation Sites
+<img width="883" height="652" alt="image" src="https://github.com/user-attachments/assets/58846006-1e4a-481a-be55-ee01824eebbe" />
