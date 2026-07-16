@@ -1,4 +1,4 @@
-# Eigenvector Centrality in Coordinated Disinformation Networks  
+# Eigenvector Centrality in Coordinated Disinformation Networks - Project Cardinal  
 ### Using the 3M IRA Tweet Dataset Published by FiveThirtyEight  
 Dataset source: **“3 Million Russian Troll Tweets” (FiveThirtyEight, 2018)**  
 https://fivethirtyeight.com/features/why-were-sharing-3-million-russian-troll-tweets
